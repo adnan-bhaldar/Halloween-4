@@ -359,7 +359,7 @@ img {
     column-gap: 3rem;
   }
   .home__data{
-    align-items: initial;
+    text-align: initial;
   }
   .home__description{
     padding-right: 9rem;
